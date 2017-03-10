@@ -61,7 +61,7 @@ video:not(.playing):hover {
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
-        text-align: right;
+        text-align: center;
 
         .menu-icon {
             display: block;
@@ -99,7 +99,7 @@ video:not(.playing):hover {
             &:not(:last-child) {
                 margin-right: 0;
             }
-            margin-left: 20px;
+            margin-left: 0;
         }
     }
 }
