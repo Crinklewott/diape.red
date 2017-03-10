@@ -177,7 +177,7 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-palm) {
-        .page-content & {
+        .page-content &, .site-header & {
             max-width: 100%;
         }
     }
