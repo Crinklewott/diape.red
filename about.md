@@ -13,7 +13,7 @@ links to parts of websites that are not mine.
 ### [The GitHubs](https://github.com/{{site.github_username}})
   {% include icon-github.html username=site.github_username %} -- Code
   incarnate, and very occasionally reincarnate when I finally get
-  around to working on them.
+  around to working on it.
 {% endif %}
 
 {% if site.twitter_username %}
