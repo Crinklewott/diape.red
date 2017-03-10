@@ -2,13 +2,6 @@ html{
   min-height: 100%;
 }
 
-body {
-  background-image: url("/img/swirl.svg");
-  background-repeat: no-repeat;
-  background-position: bottom right;
-  background-size: 10em;
-}
-
 /**
  * Site header
  */
@@ -210,6 +203,7 @@ video:not(.playing):hover {
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    margin-left: 2em;
 }
 
 .post-link {
@@ -228,12 +222,20 @@ video:not(.playing):hover {
 
 .post-title {
     color: darken($brand-color, 15%);
-    font-size: 42px;
+    font-size: 3em;
     letter-spacing: -1px;
-    line-height: 1;
+    line-height: 60px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: auto;
 
     @include media-query($on-laptop) {
         font-size: 36px;
+    }
+
+    &:hover {
+        margin-bottom: 7px;
+        border-bottom: solid 3px;
     }
 }
 
