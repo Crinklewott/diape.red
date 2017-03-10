@@ -209,6 +209,10 @@ video:not(.playing):hover {
 .post-link {
     display: block;
     font-size: $base-font-size * 2;
+
+    @include media-query($on-palm) {
+        font-size: 42px;
+    }
 }
 
 
