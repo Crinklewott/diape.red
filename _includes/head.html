@@ -9,17 +9,5 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <script>
-   window.addEventListener('load', function(){
-     Array.prototype.forEach.call(document.getElementsByTagName('video'), function(targ){
-       targ.addEventListener('click', function(){
-         targ.className += " playing";
-         targ.play();
-       });
-       targ.addEventListener('ended', function(){
-         targ.className = targ.className.replace(/\s*\bplaying\b/, "");
-       });
-     });
-   });
-  </script>
+  <script src="{{ "/js/main.js" | prepend: site.baseurl }}" async></script>
 </head>
