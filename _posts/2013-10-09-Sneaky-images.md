@@ -11,6 +11,7 @@ wrong though?
 <span class="small">[Original image by ねっつー on Pixiv.](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=38861935)</span>
 
 Go ahead, download it, inspect it, try to figure it out.
+<!-- more -->
 
 Give up yet?
 
