@@ -258,6 +258,25 @@ video:not(.playing):hover {
     }
 }
 
+h3.series {
+    position: absolute;
+    bottom: 32px;
+    left: -10px;
+}
+
+sub.series {
+    display: block;
+    font-size: 16px;
+    margin-bottom: -16px;
+    margin-top: 5px;
+    margin-left: -5px;
+    text-decoration: none;
+}
+
+.headerContainer{
+    position: relative;
+}
+
 .post-content {
   margin-bottom: $spacing-unit;
 

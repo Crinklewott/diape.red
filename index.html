@@ -10,7 +10,12 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2 class="hug-top">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          {% if post.series %}
+            <sub class="series nostyle">{{ post.series }}</sub>
+          {% endif %}
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
         </h2>
         <p>
           {{ post.excerpt }}
