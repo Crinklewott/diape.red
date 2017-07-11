@@ -39,7 +39,7 @@ When you do this, it indicates so in the bottom line.
 
 ![The bottom line shows you can edit!](/assets/Dired2.png "Uh oh")
 
-After that, you can edit the folder as if it is a text file, using
+After that, you can edit the folder as if it were a text file, using
 whatever style of editing you prefer. When you are done, you can save
 your changes to the folder by simply saving the buffer as if it were a
 normal text file--or by hitting `C-c C-c` like the text at the bottom
