@@ -13,11 +13,6 @@ eventual goal is to make things that can make others happy..!
 That sounds super-corny, because it totally is, but it's me in a
 nutshell.
 
-I'm the type who gets really inspired seeing the things really skilled
-people do--I also really like seeing people come closer to realizing
-their goals and ambitions, so I make a pretty good cheerleader if you
-need one, hee!
-
 Maybe one day I will put something useful here, but for now, enjoy
 links to parts of websites that are not mine.
 
