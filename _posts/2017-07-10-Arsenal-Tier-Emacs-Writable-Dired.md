@@ -13,7 +13,8 @@ they should be--and lets do it in less than five seconds!
 <!-- more -->
 
 # So, WTF did I just see?
-You just saw an entire folder get renamed--using something called "Dired".
+In the GIF at the top, you saw an entire folder get renamed using
+something called "Dired".
 
 Emacs has a built-in-file manager, which doesn't sound very impressive
 until you realize that you can edit folders like text files! All I did
