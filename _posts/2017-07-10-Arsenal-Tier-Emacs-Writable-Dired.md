@@ -31,8 +31,10 @@ above.
 
 By default, Dired is read-only to stop you from making sweeping
 changes to your folders (Imagine running across this without knowing
-what you're doing!), but you can turn that off with `C-x C-q`. It
-indicates you have done this in the bottom line.
+what you're doing!), but you can turn that off with `C-x C-q`,
+allowing you to perform all kinds of magic.
+
+When you do this, it indicates so in the bottom line.
 
 ![The bottom line shows you can edit!](/assets/Dired2.png "Uh oh")
 
