@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Arsenal-tier Emacs: Mass Rename"
+title: "Mass Rename"
 date: 2017-07-10 18:21:03 -0700
 categories: emacs
+series: "Arsenal-tier Emacs:"
 ---
 
 Lets rename a folder of annoying Twitter `.jpg-orig` files to what they should be--and lets do it in less than five seconds!
