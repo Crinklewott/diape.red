@@ -230,6 +230,11 @@ video:not(.playing):hover {
 /**
  * Posts
  */
+.footnotes {
+    font-size: 20px;
+    color: #444;
+}
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
