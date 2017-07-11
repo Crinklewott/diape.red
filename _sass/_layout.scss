@@ -262,6 +262,11 @@ h3.series {
     position: absolute;
     bottom: 32px;
     left: -10px;
+
+    @include media-query($on-palm) {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
 }
 
 sub.series {
