@@ -27,7 +27,7 @@ In Emacs, `C-x C-f` [^1] lets you open files and folders... And when you
 open a folder, you are placed in "Dired"; the mode you saw me use
 above.
 
-![Navigating to a folder](/assets/Dired1.png "Hit Tab a lot, nearly everything in Emacs does tabs a lot")
+![Navigating a folder in Dired](/assets/Dired1.png "Welcome to Dired!")
 
 By default, Dired is read-only to stop you from making sweeping
 changes to your folders (Imagine running across this without knowing
