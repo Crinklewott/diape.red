@@ -103,6 +103,10 @@ a {
     color: $brand-color;
     text-decoration: none;
 
+    &.darken{
+        color: darken($brand-color, 15%);
+    }
+
     &:visited {
         color: darken($brand-color, 15%);
     }
