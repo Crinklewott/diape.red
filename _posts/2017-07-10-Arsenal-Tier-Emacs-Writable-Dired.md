@@ -13,13 +13,17 @@ Lets rename a folder of annoying Twitter `.jpg-orig` files to what they should b
 <!-- more -->
 
 # What's this?
-In the GIF at the top, you can see an entire folder get renamed using
-something called "Dired".
+In the GIF at the top, you can see an entire folder get renamed
+seemingly instantly. What's happening here is the handywork of a
+little Emacs tool called "Dired", Emacs' built-in file manager.
 
-Emacs has a built-in-file manager, which doesn't sound very impressive
-until you realize that you can edit folders like text files! All I did
-above was simply find and replace "`-orig`" with nothing and
-save. Simple as that!
+Now, Emacs having a built-in-file manager is about as surprising as
+the ocean being wet, but it has some really cool features that are a
+lot less obvious. The one we are interested in is the part where Dired
+allows you to edit folders as if they were text files!
+
+Because of this, all I did above was simply find and replace "`-orig`"
+with nothing, then save. Simple as that!
 
 ![Find and replace](/assets/Dired-Rename.gif "It's all text!")
 
