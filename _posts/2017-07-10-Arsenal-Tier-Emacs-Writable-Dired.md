@@ -5,8 +5,8 @@ date: 2017-07-10 18:21:03 -0700
 categories: emacs
 ---
 
-Lets rename a folder of annoying Twitter `.png-orig` and `.jpg-orig`
-files to what they should be--in less than five seconds!
+Lets rename a folder of annoying Twitter `.jpg-orig` files to what
+they should be--and lets do it in less than five seconds!
 
 ![Renaming of an entire folder in no time at all](/assets/Mass-Rename.gif "Beep boop, renamed!")
 
