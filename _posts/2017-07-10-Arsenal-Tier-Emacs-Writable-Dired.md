@@ -12,8 +12,8 @@ they should be--and lets do it in less than five seconds!
 
 <!-- more -->
 
-# So, WTF did I just see?
-In the GIF at the top, you saw an entire folder get renamed using
+# What's this?
+In the GIF at the top, you can see an entire folder get renamed using
 something called "Dired".
 
 Emacs has a built-in-file manager, which doesn't sound very impressive
