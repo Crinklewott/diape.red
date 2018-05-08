@@ -8,7 +8,6 @@ categories: tricks
 There is something wrong with this image. Can you tell me *what's*
 wrong though?
 ![img](//ext.archenoth.com/PIMG/PichuFauxPass.png)
-<span class="small">[Original image by ねっつー on Pixiv.](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=38861935)</span>
 
 Go ahead, download it, inspect it, try to figure it out.
 <!-- more -->
