@@ -7,7 +7,7 @@ categories: tricks
 
 There is something wrong with this image. Can you tell me *what's*
 wrong though?
-![img](//ext.archenoth.com/PIMG/PichuFauxPass.png)
+![img](/assets/PichuFauxPass.png)
 
 Go ahead, download it, inspect it, try to figure it out.
 <!-- more -->
@@ -24,12 +24,12 @@ Pretty nifty, huh?
 
 Now that I've described what's happening in abstract, lets take a closer look at this Pichu Faux Pas by opening the file in Emacs...
 
-![img](//ext.archenoth.com/PIMG/Pichumacs1.png)
+![img](/assets/Pichumacs1.png)
 
 As you can see at the bottom, I can look at this image as text by hitting *"C-c C-c"* (Or *Ctrl + C, Ctrl + C* for you non-Emacs folks.)
 That gives you a textual view of the binary data like you would expect:
 
-![img](//ext.archenoth.com/PIMG/Pichumacs2.png)
+![img](/assets/Pichumacs2.png)
 
 [According to Wikipedia](http://en.wikipedia.org/wiki/Portable_Network_Graphics#File_header), the header of a PNG file is as follows:
 
@@ -44,7 +44,7 @@ That gives you a textual view of the binary data like you would expect:
 
 Now you can clearly see the "`\211PNG`" followed by a DOS-style line-ending... But this mode isn't terribly good at looking at binary data, so switching over to hexl-mode we see the following:
 
-![img](//ext.archenoth.com/PIMG/Pichumacs3.png)
+![img](/assets/Pichumacs3.png)
 
 Now we can follow along with the format easily, I highlighted the "`89`" to show that the "`\211`" that we saw earlier is the character described by the Wikipedia table. You can even follow along the file with the header description. We see the "`89`" to start out with, followed by the "`50 4E 47`", which corresponds to the "`PNG`" text on the right of the hexl-mode window. You can continue doing this for the entire header... But why is this important?
 
@@ -60,7 +60,7 @@ Well, as it turns out, a little lower on the PNG Wikipedia article, it describes
 
 There is a string in every PNG file to tell the program to stop reading the image file, and that string is "`IEND`". So, if we search for this string, we should have the end of the file, right?
 
-![img](//ext.archenoth.com/PIMG/Pichumacs4.png)
+![img](/assets/Pichumacs4.png)
 
 *Right!*
 
@@ -68,23 +68,23 @@ One thing Wikipedia doesn't mention is that there are actually four bytes follow
 
 But wait! Something's amiss here. Do you see it? There is more to the file after the PNG supposedly ended. Lets first isolate that data into another file so we can work with it.
 
-![img](//ext.archenoth.com/PIMG/Pichumacs5.png)
+![img](/assets/Pichumacs5.png)
 
 That header looks familiar, but lucky for us, we don't need to memorize arbitrary header values when we have commands like "`file`" at our disposal. Lets see if it can tell us what kind of data we are working with...
 
-![img](//ext.archenoth.com/PIMG/Pichumacs6.png)
+![img](/assets/Pichumacs6.png)
 
 Turns out, this is a ZIP file... The header for a ZIP file according to PKWare (The guys who made PKZIP) [is "`PK`"](http://www.pkware.com/documents/casestudies/APPNOTE.TXT) (Section 4.2.1). It all seems to check out. So lets save it as a zip file.
 
-![img](//ext.archenoth.com/PIMG/Pichumacs7.png)
+![img](/assets/Pichumacs7.png)
 
 And open it...
 
-![img](//ext.archenoth.com/PIMG/Pichumacs8.png)
+![img](/assets/Pichumacs8.png)
 
 What's this now?
 
-![img](//ext.archenoth.com/PIMG/Pichumacs9.png)
+![img](/assets/Pichumacs9.png)
 
 Looks like we have a text file! Yes, a text file with text we could *totally* see in hexl-mode... But that's not the point.
 
