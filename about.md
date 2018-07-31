@@ -12,7 +12,7 @@ The name's Archenoth, and as corny as it sounds, I want to make things that will
 
 # What kinds of things though?
 
-As you can likely tell from [my blog](/), I am a programmer! So my claim to fame is that I slow down computers in sometimes-useful and sometimes-amusing ways. I also like experimenting with things that absolutely shouldn't work.
+As you can likely tell from [my blog](/), I am a programmer! So my claim to fame is that I perform sometimes-useful and sometimes-amusing acts of minor technomancy. I also like experimenting with things that absolutely shouldn't work.
 
 Another thing you might have gathered is that I'm an [*almost*-artist](//art.archenoth.com). I draw things every once in a while, and those things are usually Pokemon, including my favorite, Oshawott!
 
