@@ -6,19 +6,19 @@ permalink: /about/
 
 Oh, hi!
 
-You want to know who am I? Well...
+Welcome to my humble little corner of the net!
 
-A like to think that I am a programmer, this much is pretty safe. I
-also have a conspicuously large list of things I am trying to get good
-at; art and music are definitely high on that list. (Though I've made
-a lot more progress on the former)
+The name's Archenoth, and as corny as it sounds, I want to make things that will make others feel happy!
 
-Who knows? Maybe I'll eventually have a large list of examples of
-things I'm happy with here! Enough I can call myself both a musician
-and an artist too!
+# What kinds of things though?
 
-I guess that's it..? Maybe I will put something useful here someday,
-but for now, enjoy links to parts of websites that are not mine.
+As you can likely tell from [my blog](/), I am a programmer! So my claim to fame is that I slow down computers in sometimes-useful and sometimes-amusing ways. I also like experimenting with things that absolutely shouldn't work.
+
+Another thing you might have gathered is that I'm an [*almost*-artist](//art.archenoth.com). I draw things every once in a while, and those things are usually Pokemon, including my favorite, Oshawott!
+
+And of course, you might also get the gist that I'm a [*maybe*-musician](/moosics). I really appreciate certain types of music, and I want to not only make the things I wish existed, but also to arrange the things that do.
+
+I guess that's it..? Maybe I will put something useful here someday, but for now, enjoy links to parts of websites that aren't mine.
 
 {% if site.twitter_username %}
 ### [The Twitters](https://twitter.com/{{site.twitter_username}})
