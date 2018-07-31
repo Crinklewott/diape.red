@@ -18,7 +18,7 @@ Another thing you might have gathered is that I'm an [*almost*-artist](//art.arc
 
 And of course, you might also get the gist that I'm a [*maybe*-musician](/moosics). I really appreciate certain types of music, and I want to not only make the things I wish existed, but also to arrange the things that do.
 
-I guess that's it..? Maybe I will put something useful here someday, but for now, enjoy links to parts of websites that aren't mine.
+I guess that's it..? Maybe I will put something Actually Useful here someday, but for now, enjoy links to parts of websites that aren't mine!
 
 {% if site.twitter_username %}
 ### [The Twitters](https://twitter.com/{{site.twitter_username}})
