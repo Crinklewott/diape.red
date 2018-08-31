@@ -9,6 +9,7 @@ Oh, hi!
 Welcome to my humble little corner of the net!
 
 The name's Archenoth, and as corny as it sounds, I want to make things that can make others happy!
+
 # What kinds of things though?
 ![Comfywott](/img/Comfywott.png "Oshawott!")
 <style>
@@ -16,6 +17,12 @@ The name's Archenoth, and as corny as it sounds, I want to make things that can 
     float: right;
     margin-left: 100px;
     margin-bottom: 50px;
+  }
+
+  @media only screen and (max-width: 1400px) and (min-width: 600px) {
+    img[alt=Comfywott]{
+      max-width: 40%;
+    }
   }
 </style>
 
