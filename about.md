@@ -8,9 +8,16 @@ Oh, hi!
 
 Welcome to my humble little corner of the net!
 
-The name's Archenoth, and as corny as it sounds, I want to make things that will make others feel happy!
-
+The name's Archenoth, and as corny as it sounds, I want to make things that can make others happy!
 # What kinds of things though?
+![Comfywott](/img/Comfywott.png "Oshawott!")
+<style>
+  img[alt=Comfywott]{
+    float: right;
+    margin-left: 100px;
+    margin-bottom: 50px;
+  }
+</style>
 
 As you can likely tell from [my blog](/), I am a programmer! So my claim to fame is that I perform sometimes-useful and sometimes-amusing acts of minor technomancy. I also like experimenting with things that absolutely shouldn't work.
 
