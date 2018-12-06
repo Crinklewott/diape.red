@@ -19,4 +19,4 @@ Awesome book! Not only do you make games to learn Common Lisp, you also end up l
 ## [Yoda Stories Reverse Engineering](https://github.com/Archenoth/yodesk-notes)
 > Where I basically repeat someone else's blog post to you
 
-Because I really want to get better at reverse engineering things I know nothing about, here are some notes I took when following along with a [Reverse Engineering tutorial by Zachronics](http://www.zachtronics.com/yoda-stories/)!
+Because I really want to get better at reverse engineering things I know nothing about, here are some notes I took when following along with a [Reverse Engineering tutorial by Zachtronics](http://www.zachtronics.com/yoda-stories/)! (Seriously, what does this guy have against the idea of me having free time ever??)
