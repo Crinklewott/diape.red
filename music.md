@@ -4,6 +4,21 @@ title: Music
 permalink: /moosics/
 ---
 
+![Oshaphones](/img/Oshaphones.png "Oshawott!")
+<style>
+  img[alt=Oshaphones]{
+    float: right;
+    margin-left: 100px;
+    margin-bottom: 50px;
+  }
+
+  @media only screen and (max-width: 1400px) and (min-width: 600px) {
+    img[alt=Oshaphones]{
+      max-width: 40%;
+    }
+  }
+</style>
+
 Sometimes, I make music... And sometimes I'm really happy with how it turns out!
 
 You'll find the intersection of these two occurences on this page!
