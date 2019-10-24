@@ -6,15 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Blog of Words
-email: archenoth@gmail.com
+title: The Crinkly Corner
+email: thingywhat@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to The Blog of Words -- The wordiest words that ever worded.
-  A blog about tech, and occasionally other things.
+  The Crinkly Corner -- The life of a diapery deviant; the conundrums of being crinkly
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://archenoth.com" # the base hostname & protocol for your site
-twitter_username: Archenoth
-github_username: Archenoth
+url: "https://diape.red" # the base hostname & protocol for your site
+twitter_username: CrinklyFriend
+github_username: CrinklyFriend
 
 # Build settings
 markdown: kramdown
