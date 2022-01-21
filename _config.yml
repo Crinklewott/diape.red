@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Diapery Diary -- A blog about acceptance, and a life outside the status quo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://diape.red" # the base hostname & protocol for your site
-twitter_username: CrinklyFriend
-github_username: CrinklyFriend
+twitter_username: Crinklewott
+github_username: Crinklewott
 
 # Build settings
 markdown: kramdown

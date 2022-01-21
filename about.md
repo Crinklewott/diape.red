@@ -10,10 +10,10 @@ My name is [Archenoth](//archenoth.com/about), and I am a certified weirdo!
 
 ...well *not literally*, I don't have a certificate or anything--so that isn't technically true. But, you see, I'm what's known as an "[AB/DL](/faq#wait-do-you-actually-like-wearing-diapers)", and what that means is that I really, honest-to-god, like to wear diapers!
 
-![SleepyWott](/img/SleepyWott.png "SleepyWott!")
+![Sleepywott](/img/Sleepywott.png "Sleepywott!")
 <style>
   @media only screen and (min-width: 600px) {
-    img[alt=SleepyWott]{
+    img[alt=Sleepywott]{
       float: right;
       margin-left: 5%;
       margin-bottom: 5%;
