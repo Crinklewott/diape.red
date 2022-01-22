@@ -24,51 +24,52 @@ My frequently asked questions! If there was something you were curious about, it
 </style>
 
 # Wait, do you actually *like* wearing diapers?
-I do! And in fact, I wear them by choice~
+I do! Wild, right?
 
-To me, they just feel nice to wear! There's something about having one on that just feels "right"; a sort of completeness that makes me just a tiny bit happier every second I am diapered.
+To me, diapers just feel really nice to wear! There's also just something about them that makes me just a tiny bit happier every second I have one on. Not a lot of people are lucky enough to have something they can say that about!
 
-Also, I think they're cute, and find anyone wearing them instantly 100 times cuter--and I like being cute!
+I also find diapers cute, and cute is *100%* my aesthetic, so I really like the idea of wearing them because of how it makes me feel about my self-image.
 
-It's a little hard to explain if you don't find diapers cute yourself, but to me, their very existence just radiates good vibes, and actually being able to have them on 100% of the time just makes me feel wonderful.
+I know it's a little hard to understand if you don't find diapers cute yourself, but to me, their very existence just radiates good vibes.
+
+So yes! I like being diapered~
 
 # Is this a sex thing?
-I'm actually demisexual, so sex itself doesn't really appeal to me outside of very specific circumstances. That makes labelling this as a "fetish" kind of hard for me, because for me, it's mostly to do with inherently aesthetic sensibilities.
+Fun fact about me: I'm demisexual! So sex itself doesn't really appeal to me for the most part. That makes labelling this as a "sex thing" kind of hard for me; because a lot of my interest in ABDL is mostly to do with inherently aesthetic sensibilities--not sexual ones.
 
-Basically, I find diapers cute--I also find people wearing diapers cute, and I like to feel cute!
-There's also an embarrassment aspect of it that I also find cute, since I find blushing adorable.
+That said, I *can* and *do* interact with ABDL in kink contexts, for sure! But that's not exactly the way I think about it most of the time when I'm just kinda existing and vibing with the aesthetics I like.
 
-Even so, I can't deny that diapers are a part of my sexuality, but I think something really important people miss about sexuality is that it stretches waaay beyond the bounds of just sex. For example, when a couple enjoys each others' company, or hugs, that's not simply because of sex reasons--but that relationship is inherently a part of human sexuality. There is a lot more to it than simply things that happen in the bedroom.
+Even so, I can't really deny that diapers are a part of my sexuality, but sexuality itself stretches *waaay* beyond the bounds of just "sex things". For example, when a couple enjoys each others' company, or hugs, that's not simply because of sex reasons--but that relationship is inherently a part of human sexuality.
 
-So, while you can't really dismiss this as simply a "sex thing", it's still very much a part of my sexuality.
+It's kinda the same thing for me when it comes to how ABDL makes me feel; it's nice, but also not really salacious to me!
 
 # Do you use your diapers?
-Sometimes! But I also don't like things that smell bad, and don't want to make anyone else uncomfortable, so I'm very conscientious of that.
+Sometimes!
 
-That said, there are times when bathroom breaks are extremely troublesome to do, and depending on how much trouble it would be, it's not the worst tradeoff in the world. I mean, wetting yourself isn't really the end of the world when you're wearing a diaper, especially if you can clean yourself and change before long.
+I feel like if anyone wore diapers 100% of the time, there would probably be a time or two where they would decide "eh, screw it". I don't like things that smell bad, and don't want to make anyone else uncomfortable, so that factors in--but it isn't the end of the world either.
 
-I mean, you mostly don't ever *need* to use it--but the option is always there for when times are desperate and things get really uncomfortable.
+Even so, there are definitely limits to what I am willing to do. (Which I won't detail, to avoid getting too blue in this FAQ)
+
+I guess a tl;dr is that I like diapers--but not what they are used for. But since I'm also always wearing them, sometimes that changes the mental algebra of this a little.
 
 # Are you ashamed of your diaper wearing?
-I definitely used to be. I think when you have something that others might consider strange, it's easy to make it seem like bigger deal to yourself than it actually is.
+I definitely used to be. I think when you like things that others might consider strange, it's easy be ashamed of those things.
 
-It's pretty easy to fall into the trap to think that anything out of the ordinary is deviant and must be suppressed, but liking diapers is as harmless as liking cartoons--and can add a tiny bit of ambient joy to your life if it's something that you enjoy! (And anything like that can really add up!)
+To make matters worse, I grew up in a place where the idea of being anything less than hyper-masculine was *deeply* frowned upon, so I was legit scared to even admit that I liked Pokemon! Much less being an asexual who's entire aesthetic revolved around wearing cute things that a large percentage of the population had negative connotations with.
 
-It's easy to think that others will immediately be disgusted, you'll be excommunicated, or that this sort of thing can ruin your life. I was scared enough that I used to literally only ever interact with others like me through an encrypted VM with an entirely separate identity, because, "what if anyone ever found out??"
+It took me a long time to internalize that my deviations from the norm weren't nessecarily harmful because everyone around me had such viceral reactions to anything that wasn't. In a setting like this, it's especially easy to imagine this sort of thing can ruin your life.
 
-I was legit scared.
+To rationalize these ideas, I was deeply, *deeply* ashamed of my strange brain.
 
-Accepting yourself can be extremely hard sometimes, especially if you come from places that don't have terribly progressive views and you become paranoid about being different in any discernible way from the so-called "norm".
+I'm so lucky I managed to eventually find a crowd that wasn't like that. But it still took me actual years of interacting with them before I finally started letting go of the idea that I was a problem that needed to disappear, and now part of my goals are to normalize the idea of ABDL (Or any other harmless but weird quirks) in my circles so that nobody around me needs to feel the same way I did for most of my life.
 
-I grew up in a place like that, and I had the impression that I would have been drawn and quartered for even simply liking *Pokémon*. So what hope would an obscure kink have of getting accepted in an environment like that?
+So nowadays? I'll gladly admit I wear diapers if someone cares enough to ask! I'm not ashamed of my diaper wearing, but I'll admit it was a pretty rough road getting here.
 
-Nowadays though? I'll gladly admit I wear diapers if someone cares enough to ask! It's not nearly as weird as I thought it was--diapers are actually a very human thing to wear, and most people aren't nearly as judgmental of harmless things as I had feared they might be.
+# How do you deal with telling people about your quirks?
+I noticed that, most of the time, people won't react nearly as bad as you fear they will when you tell them about most weird things about yourself. Turns out, people that know you have already judged your character, and something like this isn't likely to change their opinion of you as much as you'd think.
 
-I'm not ashamed, and you should try really hard to not be either.
+But even if someone's reaction is negative, it's only a single data point on a vast array of things they know about you--and they will likely grow more comfortable with the idea over time. Liking diapers isn't nearly the kind of relationship kryptonite that most ABDLs seems to assume!
 
-# What if people aren't accepting as you hoped?
-I noticed that, most of the time, people won't react nearly as bad as you fear they will. This is *especially* true if you have any previous dialog with them. Turns out, people that know you have already judged your character, and something like this isn't likely to change their opinion of you as much as you'd think.
+For reals, you can still love, and you will still be loved.
 
-But even if their reaction is negative, it's only a single data point on a vast array of things they know about you--and they will likely grow more comfortable with the idea over time. Liking diapers isn't nearly the kind of relationship kryptonite that every AB/DL seems to initially assume!
-
-You can still love, you can still be loved, and you don't even need to isolate yourself with other AB/DLs to do that.
+So, be respectful, but be free!
