@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /faq/
+permalink: /faq
 ---
 
 My frequently asked questions! If there was something you were curious about, it may be covered below~
