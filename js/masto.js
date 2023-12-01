@@ -92,9 +92,6 @@ window.addEventListener("keyup", function(e){
 
 // Actually fetch it all now and render!
 for await(const status of client.fetchStatuses({"tagged": "mastoart"})){
-  if(status.sensitive){
-    continue;
-  }
   const i = statuses.push(status) - 1;
   const media = status.media_attachments[0];
   const article = document.createElement("article");
