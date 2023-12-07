@@ -9,7 +9,7 @@
 title: My Diapery Diary
 email: thingywhat@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Diapery Diary -- A blog about acceptance, and a life outside the status quo
+  Diapery Diary -- A blog about kink acceptance
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://diape.red" # the base hostname & protocol for your site
 twitter_username: Crinklewott
