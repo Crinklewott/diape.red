@@ -4,6 +4,7 @@ title: Hidden kink
 series: Morally quashing yourself
 date: 2023-12-05 21:04:49 -0700
 categories: kink
+fediPostId: 111537491045451827
 ---
 
 > "I want to exist, but I don't want to be harmful"
