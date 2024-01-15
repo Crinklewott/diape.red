@@ -39,10 +39,14 @@ Anywho, without further ado, I hope you all enjoy this site!
 # Me, but elsewhere
 If you want to see other things I'm up to, here are a few other places you can see just that!
 
+## [The Fediverse](https://chitter.xyz/@archenoth)
+{% include icon-mastodon.html link='https://chitter.xyz/@archenoth' username='archenoth' %} --
+I've effectively moved entirely from Twitter to this place! So if you want to see what I'm up to, this is probably your best bet~
+
 {% if site.twitter_username %}
-### [Twitter](https://twitter.com/{{site.twitter_username}})
+## [The Twitters](https://twitter.com/{{site.twitter_username}})
   {% include icon-twitter.html username=site.twitter_username %} --
-  My Twitter! Most of my art gets posted here first, as well as my projects, weird thoughts, and ideas
+  Historically, I've been here a lot, but well, you know...
 {% endif %}
 
 {% if site.github_username %}
