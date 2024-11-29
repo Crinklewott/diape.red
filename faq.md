@@ -50,6 +50,11 @@ I'm so lucky I managed to eventually find a crowd that wasn't like that. But it 
 
 So nowadays? I'll gladly admit I wear diapers if someone cares enough to ask! I'm not ashamed of my diaper wearing, but I'll admit it was a pretty rough road getting here.
 
+# What do you look like?
+...ah, so this is a surprisingly common thing I get asked when someone learns that I wear diapers. I guess it makes sense to be curious when you learn something like this about someone...so sure! (I'm going to keep it tasteful though!)
+
+But [here's a picture of crinkly-mode meee](img/me_irl.jpg)!
+
 # How do you deal with telling people about your quirks?
 I noticed that, most of the time, people won't react nearly as bad as you fear they will when you tell them about most weird things about yourself. Turns out, people that know you have already judged your character, and something like this isn't likely to change their opinion of you as much as you'd think.
 
