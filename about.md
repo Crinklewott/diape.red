@@ -10,23 +10,7 @@ My name is [Archenoth](//archenoth.com/about), and I'm a certified weirdo!
 
 ...well, I don't have a certificate or anything--so that isn't technically true. But, you see, I'm what's known as an "ABDL", and what that means is that [wearing diapers is something that makes me happy!](/faq#wait-do-you-actually-like-wearing-diapers)
 
-![Sleepywott](/img/Sleepywott.png "Sleepywott!")
-<style>
-  @media only screen and (min-width: 600px) {
-    img[alt=Sleepywott]{
-      float: right;
-      margin-left: 5%;
-      margin-bottom: 5%;
-      max-width: 50%;
-    }
-  }
-
-  img[alt='the favicon for archenoth.com']{
-    display: inline-block;
-    width: 16px;
-    height: 16px;
-  }
-</style>
+![Sleepywott](/img/Sleepywott.png "Sleepywott!"){:.rightHover}
 
 As you could probably imagine, there are people who find this fact about me a little unusual, so the topic of this site is about my adventures living outside the status quo~
 
@@ -58,3 +42,11 @@ I've effectively moved entirely from Twitter to this place! So if you want to se
 ### [My non-diapery site](//archenoth.com)
 ![the favicon for archenoth.com](//archenoth.com/favicon.ico "My main site!") [archenoth.com](//archenoth.com) --
 This is my main site! You'll find most of my non-ABDL stuff here~
+
+<style>
+  img[alt='the favicon for archenoth.com']{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+  }
+</style>

@@ -6,22 +6,7 @@ permalink: /faq
 
 My frequently asked questions! If there was something you were curious about, it may be covered below~
 
-![Questions](/img/Questions.png "Questions!")
-<style>
-  img[alt=Questions]{
-    max-height: 100vh;
-  }
-
-  @media only screen and (min-width: 600px) {
-    img[alt=Questions]{
-      float: right;
-      margin-top: 5%;
-      margin-left: 5%;
-      margin-bottom: 5%;
-      max-width: 50%;
-    }
-  }
-</style>
+![Questions](/img/Questions.png "Questions!"){:.rightHover .bumpUp .bumpDown}
 
 # Wait, do you actually *like* wearing diapers?
 I do! Wild, right?
