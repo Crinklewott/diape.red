@@ -69,6 +69,6 @@ Diapers are a thing that exist because they improve the lives of people--and I t
 
 The fact that diapers have such stigma attached to them, and the fact that they have so many negative associations is...not great!
 
-Normalizing diapers to help reduce those negative associations would be amazing! Especially so that the people who lives are genuinely improved by them don't need to simultaneously feel like that improvement was a mistake
+Normalizing diapers to help reduce those negative associations would be amazing! Especially so that the people whose lives are genuinely improved by them don't need to simultaneously feel like that improvement was a mistake
 
 Normalizing diapers, normalizes people
