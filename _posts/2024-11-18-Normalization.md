@@ -3,6 +3,7 @@ layout: post
 title:  Normalization
 series: Cause and effect
 date:   2024-11-28
+fediPostId: 113564489318887415
 ---
 
 Hot take: Adults wearing diapers really shouldn't be a big deal
