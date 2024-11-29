@@ -20,7 +20,7 @@ I know it's a little hard to understand if you don't find diapers cute yourself,
 So yes! I like being diapered~
 
 # Is this a sex thing?
-Fun fact about me: I'm demisexual! So sex itself doesn't really appeal to me for the most part. That makes labelling this as a "sex thing" kind of hard for me; because a lot of my interest in ABDL is mostly to do with inherently aesthetic sensibilities--not sexual ones.
+Fun fact about me: I'm asexual! So sex itself doesn't really appeal to me for the most part. That makes labelling this as a "sex thing" kind of hard for me; because a lot of my interest in ABDL is mostly to do with inherently aesthetic sensibilities--not sexual ones.
 
 That said, I *can* and *do* interact with ABDL in kink contexts, for sure! But that's not exactly the way I think about it most of the time when I'm just kinda existing and vibing with the aesthetics I like.
 
